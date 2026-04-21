@@ -1,43 +1,36 @@
-<div align="center">🔄 NOBITA IP CHANGER
+Read<div align="center">
 
-⚡ Termux IP Rotator | Tor Based | Auto Proxy
+# 🔄 NOBITA IP CHANGER
 
-""YouTube" (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" (https://youtube.com/@owov_bot)
-""Telegram" (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" (https://t.me/nobi4t111)
-""Termux" (https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)" (https://termux.dev)
+### ⚡ Termux IP Rotator | Tor Based | Auto Proxy
 
-</div>---
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@owov_bot)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nobi4t111)
+[![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)](https://termux.com)
 
-🎯 What is this?
-
-A powerful Tor-based IP changer for Termux that automatically rotates your public IP using multiple Tor circuits.
-
-«👑 Created by: xavnoo»
+</div>
 
 ---
 
-✨ Features
+⚡ NOBITA IP CHANGER
 
-Feature| Description
-🔄 Auto Rotation| Change IP automatically
-🧅 Tor Based| Uses Tor network
-🌐 Live IP| Shows IP after change
-⚡ Lightweight| Fast & simple
-🎮 Easy| Beginner friendly
+🔥 Termux IP Rotator Tool (Tor Based)
+A fast and simple script to rotate your IP using Tor network in Termux.
 
 ---
 
-📦 Requirements
+🚀 Features
 
-- Android + Termux
-- Internet connection
-- Basic command knowledge
+- 🔄 Auto IP Change (Tor Based)
+- ⚡ Fast & Lightweight
+- 📱 Works on Termux
+- 🧠 Easy to Use (Beginner Friendly)
+- 🔒 Improves Anonymity (Basic Level)
 
 ---
 
-🚀 Installation
+📥 Installation
 
-pkg install git -y
 git clone https://github.com/xavnoo/IpChange.git
 cd IpChange
 chmod +x IpChange.sh
@@ -45,16 +38,30 @@ bash IpChange.sh
 
 ---
 
-⚙️ Usage
+⚙️ Requirements
 
-Run the script and follow instructions on screen.
+- Termux
+- Internet Connection
+- Basic command knowledge
+
+---
+
+📌 Usage
+
+Run the script and follow on-screen instructions.
 
 ---
 
 ⚠️ Disclaimer
 
-This tool is for educational purposes only.
-Do not misuse it.
+This tool is made for educational purposes only.
+Do not use it for illegal activities.
+
+---
+
+👑 Author
+
+- Nobita 
 
 ---
 
