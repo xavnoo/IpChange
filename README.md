@@ -32,11 +32,10 @@ A fast and simple script to rotate your IP using Tor network in Termux.
 
 Step | Command |
 |------|---------|
-| 1 | ``` pkg install git -y ``` |
-| 2 | ```git clone cd://github.com/YOUR_USERNAME/termux-ip-changer.git ``` |
-| 3 | ```cd termux-ip-changer ``` |
-| 4 | ```chmod +x IpChange.sh ``` |
-| 5 | ```bash IpChange.sh ``` |---
+| 1 | ``` git clone https://github.com/xavnoo/IpChange.git``` |
+| 2 | ``` cd IpChange``` |
+| 3 | ```chmod +x IpChange.sh ``` |
+| 4 | ```bash IpChange.sh ``` |
 
 📌 Usage
 
