@@ -29,14 +29,14 @@ A fast and simple script to rotate your IP using Tor network in Termux.
 
 ---
 
-📥 Installation
+## 📥 Installation
 
+```bash
+pkg install git -y
 git clone https://github.com/xavnoo/IpChange.git
 cd IpChange
 chmod +x IpChange.sh
-bash IpChange.sh
-
----
+bash IpChange.sh---
 
 ⚙️ Requirements
 
